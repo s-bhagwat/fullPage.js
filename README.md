@@ -266,7 +266,7 @@ var myFullpage = new fullpage('#fullpage', {
 ### Creating links to sections or slides
 If you are using fullPage.js with anchor links for the sections (using the `anchors` option or the attribute `data-anchor` in each section), then you will be able to use anchor links also to navigate directly to a certain slide inside a section.
 
-This would be an example of a link with an anchor: http://alvarotrigo.com/fullPage/#secondPage/2 (which is the URL you will see once you access to that section/slide manually)
+This would be an example of a link with an anchor: https://alvarotrigo.com/fullPage/#page2/2 (which is the URL you will see once you access to that section/slide manually)
 Notice the last part of the URL ends in `#secondPage/2`.
 
 Having the following initialization:
